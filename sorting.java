@@ -14,7 +14,7 @@ class Sorting{
 				arr[j+1]=key;
 				display(arr,n);
 			}
-	}
+	
 		}
 	}
 	void display(int arr[],int n){
